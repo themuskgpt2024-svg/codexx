@@ -1,10 +1,10 @@
-name: Docker Image CI
+Bangladesh name: Docker Image CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "Bangladesh" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "Bangladesh" ]
 
 jobs:
 
